@@ -4,7 +4,9 @@
 
 # grade
 kiwi browser: 4,3 (GOOD)
+
 Brave browser: 4,7 (GOOD)
+
 Vivaldi browser: 4,7 (GOOD)
 
 1. kiwi browser [download](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
