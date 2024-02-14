@@ -7,6 +7,8 @@ Brave browser: 4,7 (GOOD)
 
 Vivaldi browser: 4,7 (GOOD)
 
+DuckDuckGO browser: 4,7 (GOOD)
+
 1. kiwi browser [download](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
 
 plus:
@@ -18,7 +20,7 @@ folder in bookmark not create
 2. Brave browser [download](https://play.google.com/store/apps/details?id=com.brave.browser)
 
 plus:
-privacy, boodmark folder create, PC mode, blocked ad, speed
+privacy, boodmark create, PC mode, blocked ad, speed
 
 minuses:
 console developer, extensions, telemetry, panels
@@ -30,3 +32,11 @@ telemetry, privacy, boodmark create, PC mode, blocked ad and surveillance, page 
 
 minuses:
 console developer, extension, panels
+
+4. DuckDuckGo browser [download](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android)
+
+plus:
+telemetry, privacy, boodmark create, blocked ad and surveillance, design, speed
+
+minuses:
+PC mode, screenshot, panels, console developer, exceptions
