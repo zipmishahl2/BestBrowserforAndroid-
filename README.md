@@ -1,6 +1,4 @@
-# BestBrowserforAndroid
-
-# Good Browsers for Android
+# Best Browsers for Android
 
 # grade
 kiwi browser: 4,3 (GOOD)
