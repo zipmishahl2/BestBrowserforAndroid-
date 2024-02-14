@@ -1,6 +1,6 @@
 # Best Browsers for Android
 
-# grade
+# rating scale
 kiwi browser: 4,3 (GOOD)
 
 Brave browser: 4,7 (GOOD)
